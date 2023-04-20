@@ -1,1 +1,4 @@
 # Major-Project
+Caption generation is a difficult synthetic intelligence problem where  in a textual  description maybe generated for a given photograph.On every occasion  when a photograph seems in front of people, their mind is capable of  annotating or labeling it, however how can computer structures procedure and  label it with a noticeably relevant and correct caption? So we will train the  computers using deep learning algorithms and make it easy.With advanced deep  learning techniques, accessibility of big datasets and computer power we can  build an efficient model to generate captions. 
+The strategies used right here are  LSTM(Long Short Term Memory) and CNN(Convolutional Neural  Networks).Feature extraction is done first and then captions are generated.The  flickr_8k dataset is used for training the model. The dataset which we are using  contains 8000 images and each image is mapped with five different captions
+DOMAIN :  DEEP LEARNING
